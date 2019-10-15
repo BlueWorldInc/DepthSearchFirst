@@ -1,0 +1,3 @@
+module depthSearchFirst {
+	requires lombok;
+}
